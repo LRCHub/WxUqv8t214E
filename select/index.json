@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "運命に賭けたい論理",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2026-03-24T07:09:41.089155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "運命に賭けたい論理",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_運命に賭けたい論理_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "運命に賭けたい論理",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/02_運命に賭けたい論理_TOGENASHI_TOGEARI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "運命に賭けたい論理",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/03_運命に賭けたい論理_TOGENASHI_TOGEARI.txt"
+    }
+  ]
+}
